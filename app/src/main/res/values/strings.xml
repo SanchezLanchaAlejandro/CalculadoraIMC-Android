@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="botonCalcular">Calcular</string>
+    <string name="botonResultado">Re-calcular</string>
+    <string name="hombre">HOMBRE</string>
+    <string name="mujer">MUJER</string>
+    <string name="altura">ALTURA</string>
+    <string name="numAltura">120 cm</string>
+    <string name="peso">PESO</string>
+    <string name="numPeso">60 kg</string>
+    <string name="edad">EDAD</string>
+    <string name="numEdad">30</string>
+    <string name="resultado">Tu resultado</string>
+    <string name="pesoNormal">Normal</string>
+    <string name="pesoBajo">Bajo Peso</string>
+    <string name="pesoSobrepeso">Sobrepeso</string>
+    <string name="pesoObesidad">Obesidad</string>
+    <string name="numCalculado">20.76</string>
+    <string name="textoPesoNormal">Se encuentra dentro del rango de peso normal</string>
+    <string name="textoPesoBajo">Se encuentra dentro del rango de bajo peso</string>
+    <string name="textoPesoSobrepeso">Se encuentra dentro del rango de sobrepeso</string>
+    <string name="textoPesoObesidad">Se encuentra dentro del rango de obesidad</string>
+</resources>
